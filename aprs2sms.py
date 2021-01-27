@@ -48,6 +48,7 @@ done
 Quick and dirty, ugly code but for 30 minutes of work is not bad.
 
 JD
+If you find this useful, send me a message over APRS or Winlink :)
 
 HK5ZVU - Jan 25 - 2021
 
